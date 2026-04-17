@@ -1,0 +1,25 @@
+{
+  "name": "opencode-confirm-loop",
+  "version": "1.0.0",
+  "description": "OpenCode plugin that enforces the LLM uses the question tool when ending conversations or asking questions",
+  "main": "index.js",
+  "type": "module",
+  "keywords": [
+    "opencode",
+    "plugin",
+    "question-tool",
+    "cost-control"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "peerDependencies": {
+    "@opencode-ai/plugin": "^1.0.0"
+  },
+  "files": [
+    "index.js",
+    "README.md"
+  ]
+}
