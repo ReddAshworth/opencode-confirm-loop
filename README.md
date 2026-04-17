@@ -1,6 +1,6 @@
 # opencode-confirm-loop
 
-OpenCode plugin that softly enforces the LLM uses the built-in `question` tool when ending conversations or asking questions — creating explicit user decision points and reducing premium request consumption.
+OpenCode plugin that softly enforces the LLM uses the built-in `question` tool when ending conversations or asking questions — creating explicit user decision points.
 
 ## How It Works
 
